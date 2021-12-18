@@ -22,11 +22,13 @@ body {
 h1 {
   font-size: 60px;
   text-transform: uppercase;
+  cursor: default;
 }
 #value {
   margin-top: 7px;
   font-size: 70px;
   font-weight: 600;
+  cursor: default;
 }
 .btns_container {
   width: 60%;
